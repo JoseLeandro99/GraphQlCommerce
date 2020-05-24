@@ -6,7 +6,7 @@ A products list application with GraphQl
 <img src="./_images/web.png">
 
 **Versão Mobile**
-<img src="./_images/mobile.png" width="250">
+<img src="./_images/mobile.png" width="550">
 
 <hr />
 
