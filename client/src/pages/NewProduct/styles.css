@@ -1,0 +1,33 @@
+div.product-form-content {
+  max-width: 600px;
+  width: 100%;
+  margin: 100px auto;
+  padding: 10px;
+}
+
+div.product-form-content form input, textarea, button {
+  width: 100%;
+  padding: 10px 20px;
+  margin: 4px 0;
+  border: 1px solid #DDDDDD;
+  resize: none;
+}
+
+::placeholder {
+  color: #AAAAAA;
+}
+
+div.product-form-content form button {
+  background-color: #48C9B0;
+  color: #FFFFFF;
+  font-weight: bold;
+  transition: background 400ms;
+}
+
+div.product-form-content form button:hover {
+  background-color: #1ABC9C;
+}
+
+div.product-form-content form button:active {
+  background-color: #16A085;
+}

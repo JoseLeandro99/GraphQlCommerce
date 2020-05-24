@@ -1,0 +1,16 @@
+{
+  "name": "ecommerce-graphql",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "sucrase-node src/server.js"
+  },
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.9.13"
+  },
+  "devDependencies": {
+    "sucrase": "^3.14.0"
+  }
+}
